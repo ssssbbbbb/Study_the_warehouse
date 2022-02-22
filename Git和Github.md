@@ -58,8 +58,8 @@ https://git-scm.com/
 > 版本切换
 
 ## 远程连接Github
-https://github.com/ssssbbbbb/Study_the_warehouse.git
-
+https://github.com/ssssbbbbb/Study_the_warehouse.git  
+**方法一：**
 1. 先查看当前是否有链接
 > git remote -v
 2. 创建连接
@@ -69,8 +69,8 @@ https://github.com/ssssbbbbb/Study_the_warehouse.git
 > ori     https://github.com/ssssbbbbb/Study_the_warehouse.git (fetch)
 > ori     https://github.com/ssssbbbbb/Study_the_warehouse.git (push)
 > 一个推送，一个拉取
-
-方法二:反正是在GitHub上面复制粘贴的
+  
+**方法二:**(反正是在GitHub上面复制粘贴的)
 ```
 git remote add origin https://github.com/ssssbbbbb/Study_the_warehouse.git
 git branch -M main
