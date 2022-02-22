@@ -70,5 +70,11 @@ https://github.com/ssssbbbbb/Study_the_warehouse.git
 > ori     https://github.com/ssssbbbbb/Study_the_warehouse.git (push)
 > 一个推送，一个拉取
 
+方法二:反正是在GitHub上面复制粘贴的
+```
+git remote add origin https://github.com/ssssbbbbb/Study_the_warehouse.git
+git branch -M main
+git push -u origin main
+```
 
 
